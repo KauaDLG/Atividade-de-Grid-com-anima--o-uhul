@@ -31,7 +31,7 @@ header {
 nav {
     grid-area: nav;
     background: #555;
-    padding: 20px;
+    padding: 25
 }
 
 main {
